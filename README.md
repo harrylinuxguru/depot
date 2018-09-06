@@ -1,2 +1,2 @@
 # depot
-code depot version
+code depot version 3
